@@ -33,6 +33,15 @@ function rentalCarCost(d) {
     return total
 }
 ```
+### Projects
+
+RSschool
+
+### Education
+Belarusian State Economic University
+
+### English
+B1 - Pre-Intermediate
 
 
 

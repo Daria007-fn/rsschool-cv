@@ -1,1 +1,2 @@
-https://daria007-fn.github.io/rsschool-cv/
+https://daria007-fn.github.io/rsschool-cv/cv
+

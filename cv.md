@@ -1,6 +1,6 @@
-![My photo](./myphoto.png)
+![My photo](../myphoto.png)
 
-# Левицкая Дарья
+# Liavitskaya Darya
 
 ## Future Front-end Developer
 
